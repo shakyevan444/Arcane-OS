@@ -27,6 +27,7 @@ import img28 from "../../../assets/bg/img28.jpg";
 import img29 from "../../../assets/bg/img29.png";
 import img30 from "../../../assets/bg/img30.jpg";
 import img31 from "../../../assets/bg/img31.jpg";
+import img32 from "../../../assets/bg/img32.jpg";
 import type { Wallpaper } from "./interface";
 
 export const Wallpapers: { [key: string]: Wallpaper } = {
