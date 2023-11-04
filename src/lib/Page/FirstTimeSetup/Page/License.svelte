@@ -38,7 +38,7 @@
 <div class="header">
   <div class="text">
     <h1>License Agreement</h1>
-    <p>By using ArcOS, you agree to the GPLv3 License.</p>
+    <p>By using ArcaneOS, you agree to the GPLv3 License.</p>
   </div>
   <img src={SecureIcon} alt="License" class="license" />
 </div>
