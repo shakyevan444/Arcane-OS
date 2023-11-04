@@ -2,9 +2,6 @@ import img0 from "../../../assets/bg/img0.png";
 import img01 from "../../../assets/bg/img01.jpeg";
 import img02 from "../../../assets/bg/img02.png";
 import img03 from "../../../assets/bg/img03.png";
-import img04 from "../../../assets/bg/img04.png";
-import img05 from "../../../assets/bg/img05.png";
-import img06 from "../../../assets/bg/img06.jpg";
 import img07 from "../../../assets/bg/img07.jpg";
 import img08 from "../../../assets/bg/img08.jpg";
 import img12 from "../../../assets/bg/img12.png";
@@ -32,8 +29,6 @@ import type { Wallpaper } from "./interface";
 
 export const Wallpapers: { [key: string]: Wallpaper } = {
   /**ArcOS Team */
-  img04: { url: img04, author: "Izaak Kuipers", name: "ArcOS Dark" },
-  img05: { url: img05, author: "Izaak Kuipers", name: "ArcOS Light" },
   img03: { url: img03, author: "Izaak Kuipers", name: "Stealth Gradient" },
   img12: { url: img12, author: "Izaak Kuipers", name: "Gradiented Waves" },
   /**SWHFotografie */
@@ -160,7 +155,6 @@ export const Wallpapers: { [key: string]: Wallpaper } = {
     author: "Computer Clan",
     name: "Flaming Peddles",
   },
-  img06: { url: img06, author: "Izaak Kuipers", name: "ArcOS Beta Dark" },
   img07: { url: img07, author: "Apple", name: "Big Sur" },
   img32: { url: img32, author: "Apple", name: "Catalina" },
    /* img09: { url: img09, author: "Unknown", name: "Login Background" }, */
