@@ -29,7 +29,7 @@
 
   function update() {
     const RELEASE_URL =
-      "https://github.com/IzK-ArcOS/ArcOS-Frontend/releases/latest";
+      "https://github.com/shakyevan444/Arcane-OS";
 
     window.open(RELEASE_URL, "_blank");
   }
@@ -45,7 +45,7 @@
     <div>
       <img src={icon} alt="ArcOS" class="logo" />
       <h1 class="center-header">Update available</h1>
-      <p class="center">ArcOS version {release.join(".")} is available.</p>
+      <p class="center">ArcaneOS version {release.join(".")} is available.</p>
       <button on:click={update}>Download</button>
     </div>
   {/if}
