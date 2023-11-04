@@ -158,7 +158,7 @@ export const Wallpapers: { [key: string]: Wallpaper } = {
   },
   img07: { url: img07, author: "Apple", name: "Big Sur" },
   img32: { url: img32, author: "Apple", name: "Catalina" },
-  img32: { url: img33, author: "Apple", name: "MacOSX 10.8" },
+  img33: { url: img33, author: "Apple", name: "MacOSX 10.8" },
    /* img09: { url: img09, author: "Unknown", name: "Login Background" }, */
 
   img0: { url: img0, author: "Izaak Kuipers", name: "Blank" },
