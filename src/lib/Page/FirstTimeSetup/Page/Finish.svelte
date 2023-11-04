@@ -16,8 +16,8 @@
   <p class="subtitle">We greatly appreciate it.</p>
 </div>
 <p class="fullwidth centered justified">
-  Thank you for checking out ArcOS! We hope you'll enjoy it as much as we love
-  making it. Please restart ArcOS to use your ArcOS instance.
+  Thank you for checking out ArcaneOS! We hope you'll enjoy it as much as we love
+  making it. Please restart ArcaneOS to use your ArcaneOS instance.
 </p>
 <br />
 <button class="fullwidth option centered" on:click={restart}>Restart</button>
