@@ -161,8 +161,9 @@ export const Wallpapers: { [key: string]: Wallpaper } = {
     name: "Flaming Peddles",
   },
   img06: { url: img06, author: "Izaak Kuipers", name: "ArcOS Beta Dark" },
-  img07: { url: img07, author: "Izaak Kuipers", name: "ArcOS Beta Light" },
-  /* img09: { url: img09, author: "Unknown", name: "Login Background" }, */
+  img07: { url: img07, author: "Apple", name: "Big Sur" },
+  img32: { url: img32, author: "Apple", name: "Catalina" },
+   /* img09: { url: img09, author: "Unknown", name: "Login Background" }, */
 
   img0: { url: img0, author: "Izaak Kuipers", name: "Blank" },
 };
