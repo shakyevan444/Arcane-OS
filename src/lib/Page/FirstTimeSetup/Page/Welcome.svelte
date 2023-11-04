@@ -6,9 +6,9 @@
 
 <div class="center-flex">
   <div>
-    <img src={Logo()} alt="ArcOS" class="logo" />
+    <img src={Logo()} alt="ArcaneOS" class="logo" />
     <h1 class="center-header">Welcome</h1>
-    <p class="center">Time to set-up ArcOS.</p>
+    <p class="center">Time to set-up ArcaneOS.</p>
     <button on:click={() => applyFTSState("updates")}>Let's begin</button>
   </div>
 </div>
