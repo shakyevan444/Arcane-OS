@@ -10,7 +10,7 @@ export async function getLatestRelease(): Promise<GitHubRelease> {
   try {
     const req = (await (
       await fetch(
-        "https://api.github.com/repos/IzK-ArcOS/ArcOS-Frontend/releases/latest",
+        "https://api.github.com/repos/shakyevan444/Arcane-OS/releases/latest",
         { cache: "no-store" }
       )
     ).json()) as GitHubRelease;
