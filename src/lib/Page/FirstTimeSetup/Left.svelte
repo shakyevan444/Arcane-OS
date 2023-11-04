@@ -21,6 +21,6 @@
   {/each}
   <button class="arcterm" on:click={arcterm}>
     <img src={ArcTermIcon} alt="ArcTerm" />
-    <span>Launch ArcTerm</span>
+    <span>Launch ArcaneTerm</span>
   </button>
 </div>
