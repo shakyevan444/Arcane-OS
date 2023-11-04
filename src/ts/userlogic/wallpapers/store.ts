@@ -25,6 +25,7 @@ import img29 from "../../../assets/bg/img29.png";
 import img30 from "../../../assets/bg/img30.jpg";
 import img31 from "../../../assets/bg/img31.jpg";
 import img32 from "../../../assets/bg/img32.jpg";
+import img33 from "../../../assets/bg/img33.jpg";
 import type { Wallpaper } from "./interface";
 
 export const Wallpapers: { [key: string]: Wallpaper } = {
@@ -157,6 +158,7 @@ export const Wallpapers: { [key: string]: Wallpaper } = {
   },
   img07: { url: img07, author: "Apple", name: "Big Sur" },
   img32: { url: img32, author: "Apple", name: "Catalina" },
+  img32: { url: img33, author: "Apple", name: "MacOSX 10.8" },
    /* img09: { url: img09, author: "Unknown", name: "Login Background" }, */
 
   img0: { url: img0, author: "Izaak Kuipers", name: "Blank" },
